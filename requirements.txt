@@ -1,5 +1,6 @@
 mkdocs
 python-markdown-math
+mkdocs-windmill
 colortab
 
 #Add pip package if needed
