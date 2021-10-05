@@ -1,8 +1,7 @@
 mkdocs
-
 git+ssh://git@github.com/beanflame/mdx_math@main
 
-setup.py install
+#setup.py install
 #admonition
 #smarty
 #sane_lists
