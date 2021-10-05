@@ -104,7 +104,8 @@ extra_javascript:
 extra_css:
   - css/style.css
   - css/admonition_fix.css
-
+  - css/colortab.css
+  
 docs_dir: 'docs'
 
 theme:
