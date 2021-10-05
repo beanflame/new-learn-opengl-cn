@@ -96,7 +96,8 @@ markdown_extensions:
   - smarty
   - sane_lists
   - mdx_math
-
+  - colortab
+  
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML'
 
