@@ -1,5 +1,5 @@
 mkdocs
-git+ssh://git@github.com/beanflame/mdx_math@main
+git+ssh://git@github.com/beanflame/mdx_math.git
 
 #setup.py install
 #admonition
