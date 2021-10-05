@@ -1,6 +1,6 @@
 mkdocs
 python-markdown-math
-
+colortab
 
 #Add pip package if needed
 #mkdocs-bootswatch
