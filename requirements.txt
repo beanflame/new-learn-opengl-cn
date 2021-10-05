@@ -1,6 +1,9 @@
 mkdocs
+
+install git+git://github.com/aleray/mdx_semanticwikilinks.git
+
 #git+ssh://git@github.com/beanflame/mdx_math.git
-git+git://github.com/aleray/mdx_semanticwikilinks.git
+
 #setup.py install
 #admonition
 #smarty
