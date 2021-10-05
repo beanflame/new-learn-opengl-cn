@@ -2,7 +2,7 @@ mkdocs
 admonition
 smarty
 sane_lists
-mdx_math
+python setup.py install
 
 #Add pip package if needed
 #mkdocs-bootswatch
