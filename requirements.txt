@@ -2,7 +2,7 @@ mkdocs
 admonition
 smarty
 sane_lists
-python setup.py install
+#python setup.py install
 
 #Add pip package if needed
 #mkdocs-bootswatch
