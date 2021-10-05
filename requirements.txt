@@ -1,4 +1,9 @@
 mkdocs
+admonition
+smarty
+sane_lists
+mdx_math
+
 #Add pip package if needed
 #mkdocs-bootswatch
 #mkdocs-minify-plugin
