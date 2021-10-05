@@ -92,7 +92,7 @@ pages:
 # -------------------------------------------------------------------------------------------------------
 
 markdown_extensions:
-  - admonition
+#  - admonition
 #  - smarty
 #  - sane_lists
 #  - mdx_math
