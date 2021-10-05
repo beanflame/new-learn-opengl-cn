@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "dev": "python setup.py install",
     "dev": "mkdocs serve -a localhost:8000",
     "build": "mkdocs build -d public"
   }
