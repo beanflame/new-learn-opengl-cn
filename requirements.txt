@@ -2,14 +2,6 @@ mkdocs
 python-markdown-math
 
 
-
-#install git+git://github.com/aleray/mdx_semanticwikilinks.git
-#git+ssh://git@github.com/beanflame/mdx_math.git
-#setup.py install
-#admonition
-#smarty
-#sane_lists
-#python setup.py install
 #Add pip package if needed
 #mkdocs-bootswatch
 #mkdocs-minify-plugin
